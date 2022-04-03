@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+body {
+	background-color: #FD5CD2;
+	color: white;
+}
+
+h1 {
+	letter-spacing: 20px;
+	text-align: center;
+	font-size: 50px;
+}
+
+img {
+	width: 100%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#bigBox {
+	display: flex;
+	flex-direction: row;
+}
+
+p {
+	font-size: 35px;
+}
+
+ol {
+	margin-left: 20px;
+	list-style-type: none;
+}
+
+
+
